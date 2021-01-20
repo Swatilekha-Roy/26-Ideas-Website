@@ -1,2 +1,5 @@
-# 26-Ideas-Website
-The official website created for the start-up studio called 26 Ideas, the company for which I am interning presently. 26 Ideas is focused on building ideas from the basics and bringing them to life. Designed certain sections of this website, developed as well as uploaded it.
+- Company's official website has been developed using front- end languages HTML5, CSS3.
+- Scripting languages include JavaScript, PHP and ajax.
+- Also utilizing the Bootstrap 4 framework for latest and familiar website modulations.
+- Using advanced styling including animations, responsive design, minimalism, etc.
+- Any suggestions for improvement are wholeheartedly welcome.
