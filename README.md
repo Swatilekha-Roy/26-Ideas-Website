@@ -1,4 +1,5 @@
 - Company's official website has been developed using front- end languages HTML5, CSS3.
+- The official site is at https://26ideas.com
 - Scripting languages include JavaScript, PHP and ajax.
 - Also utilizing the Bootstrap 4 framework for latest and familiar website modulations.
 - Using advanced styling including animations, responsive design, minimalism, etc.
